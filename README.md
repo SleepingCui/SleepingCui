@@ -1,3 +1,4 @@
+[中文](README_CN.md/ "中文"). 
 # Complex Algorithms Benchmark
 
 ## Introduction
