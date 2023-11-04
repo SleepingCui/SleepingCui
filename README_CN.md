@@ -19,4 +19,4 @@
 
 ## 许可证
 
-该程序根据MIT许可证进行许可。有关更多信息，请参阅[LICENSE](LICENSE)文件。
+该程序根据MIT许可证进行许可。有关更多信息，请参阅[LICENSE](LICENSE.txt/ "LICENSE")文件。
