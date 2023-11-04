@@ -19,4 +19,4 @@ This program requires a C++ compiler to compile the source code.
 
 ## License
 
-This program is licensed under the MIT License. See the [LICENSE](chrome-extension://dhoenijjpgpeimemopealfcbiecgceod/chat/LICENSE) file for more information.
+This program is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more information.
